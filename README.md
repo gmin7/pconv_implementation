@@ -8,3 +8,11 @@ https://github.com/NVIDIA/partialconv
 https://github.com/bobqywei/inpainting-partial-conv
 
 Results obtained from overfitting onto a minidataset I pulled from Places2 and the above masks:
+<p float="left">
+  <img src="/results/p11.png" width="300" />
+  <img src="/results/p12.png" width="300" />
+</p>
+<p float="left">
+  <img src="/results/p21.png" width="300" />
+  <img src="/results/p22.png" width="300" />
+</p>
