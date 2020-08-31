@@ -1,3 +1,5 @@
+# Inpainting via NVIDIA's Partial Convolution Algorithm
+
 I tried my hand at a bare bones implementation of NVIDIA's phenomenal photo inpainting algorithm: https://www.nvidia.com/research/inpainting/
 
 It was a great opportunity to implement their pconv layer and get it functioning on a subset of Places2 using their non-rectangular binary masks which they made custom. Inpainting papers prior to this one mainly focussed on binary masks which were rectangular whereas this one allowed for more sophisticated image distortions.
